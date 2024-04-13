@@ -1,0 +1,703 @@
+{
+    "version": {
+        "json_export": "202",
+        "page_segmentation": "5",
+        "schema": "1.1.0",
+        "structure": "1.1085.0",
+        "table_structure": "5"
+    },
+    "extended_metadata": {
+        "ID_instance": "80 0D 7A C1 9D B9 B2 11 0A 00 67 45 8B 6B C6 23 ",
+        "ID_permanent": "44 33 20 33 43 20 35 44 20 43 31 20 39 44 20 42 39 20 42 32 20 31 31 20 30 41 20 30 30 20 36 37 20 34 35 20 38 42 20 36 42 20 43 36 20 32 33 20 ",
+        "has_acroform": false,
+        "has_embedded_files": false,
+        "is_XFA": false,
+        "is_certified": false,
+        "is_encrypted": false,
+        "is_digitally_signed": false,
+        "language": "",
+        "page_count": 1,
+        "pdf_version": "1.6",
+        "pdfa_compliance_level": "",
+        "pdfua_compliance_level": ""
+    },
+    "elements": [
+        {
+            "Bounds": [
+                519.8399963378906,
+                1446.0888061523438,
+                626.2779388427734,
+                1502.3768005371094
+            ],
+            "Font": {
+                "alt_family_name": "* Times New Roman",
+                "embedded": true,
+                "encoding": "Identity-H",
+                "family_name": "* Times New Roman",
+                "font_type": "CIDFontType0",
+                "italic": false,
+                "monospaced": false,
+                "name": "*Times New Roman-2829",
+                "subset": false,
+                "weight": 400
+            },
+            "HasClip": false,
+            "ObjectID": 68,
+            "Page": 0,
+            "Path": "//Document/Sect/P",
+            "Text": "( \u0141,\\ ) ",
+            "TextSize": 32.0,
+            "attributes": {
+                "LineHeight": 38.375,
+                "SpaceAfter": 18,
+                "TextAlign": "Center"
+            }
+        },
+        {
+            "Bounds": [
+                0.0,
+                0.0014495849609375,
+                1139.2682495117188,
+                1605.1071014404297
+            ],
+            "ObjectID": 71,
+            "Page": 0,
+            "Path": "//Document/Sect/P[2]/Figure",
+            "attributes": {
+                "BBox": [
+                    249.5899999999965,
+                    1245.3699999999953,
+                    936.6819999999716,
+                    1286.4099999999744
+                ]
+            }
+        },
+        {
+            "Bounds": [
+                334.8000030517578,
+                1251.9136962890625,
+                382.5812683105469,
+                1283.813705444336
+            ],
+            "Font": {
+                "alt_family_name": "* Times New Roman",
+                "embedded": true,
+                "encoding": "Identity-H",
+                "family_name": "* Times New Roman",
+                "font_type": "CIDFontType0",
+                "italic": false,
+                "monospaced": false,
+                "name": "*Times New Roman-2866",
+                "subset": false,
+                "weight": 400
+            },
+            "HasClip": false,
+            "ObjectID": 72,
+            "Page": 0,
+            "Path": "//Document/Sect/P[2]/Figure/StyleSpan",
+            "Text": "\u2022 \u2022 ",
+            "TextSize": 20.0,
+            "attributes": {
+                "TextPosition": "Sup"
+            }
+        },
+        {
+            "Bounds": [
+                424.8000030517578,
+                1251.9136962890625,
+                472.3133239746094,
+                1283.813705444336
+            ],
+            "Font": {
+                "alt_family_name": "* Times New Roman",
+                "embedded": true,
+                "encoding": "Identity-H",
+                "family_name": "* Times New Roman",
+                "font_type": "CIDFontType0",
+                "italic": false,
+                "monospaced": false,
+                "name": "*Times New Roman-2866",
+                "subset": false,
+                "weight": 400
+            },
+            "HasClip": false,
+            "ObjectID": 73,
+            "Page": 0,
+            "Path": "//Document/Sect/P[2]/Figure/StyleSpan[2]",
+            "Text": "( q: ",
+            "TextSize": 20.0,
+            "attributes": {
+                "TextPosition": "Sup"
+            }
+        },
+        {
+            "Bounds": [
+                570.7200012207031,
+                1262.471694946289,
+                581.18115234375,
+                1283.7957000732422
+            ],
+            "Font": {
+                "alt_family_name": "* Times New Roman",
+                "embedded": true,
+                "encoding": "Identity-H",
+                "family_name": "* Times New Roman",
+                "font_type": "CIDFontType0",
+                "italic": false,
+                "monospaced": false,
+                "name": "*Times New Roman-2863",
+                "subset": false,
+                "weight": 400
+            },
+            "HasClip": false,
+            "ObjectID": 74,
+            "Page": 0,
+            "Path": "//Document/Sect/P[2]/Figure/StyleSpan[3]",
+            "Text": ", ",
+            "TextSize": 6.0,
+            "attributes": {
+                "TextPosition": "Sup"
+            }
+        },
+        {
+            "Bounds": [
+                688.5599975585938,
+                1261.4517059326172,
+                689.2799987792969,
+                1282.7756958007812
+            ],
+            "Font": {
+                "alt_family_name": "* Times New Roman",
+                "embedded": true,
+                "encoding": "Identity-H",
+                "family_name": "* Times New Roman",
+                "font_type": "CIDFontType0",
+                "italic": false,
+                "monospaced": false,
+                "name": "*Times New Roman-2863",
+                "subset": false,
+                "weight": 400
+            },
+            "HasClip": false,
+            "ObjectID": 75,
+            "Page": 0,
+            "Path": "//Document/Sect/P[2]/Figure/StyleSpan[4]",
+            "Text": "1",
+            "TextSize": 6.0,
+            "attributes": {
+                "TextPosition": "Sub"
+            }
+        },
+        {
+            "Bounds": [
+                689.7599945068359,
+                1262.471694946289,
+                792.7198486328125,
+                1283.7957000732422
+            ],
+            "Font": {
+                "alt_family_name": "* Times New Roman",
+                "embedded": true,
+                "encoding": "Identity-H",
+                "family_name": "* Times New Roman",
+                "font_type": "CIDFontType0",
+                "italic": false,
+                "monospaced": false,
+                "name": "*Times New Roman-2863",
+                "subset": false,
+                "weight": 400
+            },
+            "HasClip": false,
+            "ObjectID": 76,
+            "Page": 0,
+            "Path": "//Document/Sect/P[2]/Figure/StyleSpan[5]",
+            "Text": "\u0141...",
+            "TextSize": 6.0,
+            "attributes": {
+                "TextPosition": "Sup"
+            }
+        },
+        {
+            "Bounds": [
+                347.0399932861328,
+                1260.8488006591797,
+                349.08372497558594,
+                1261.586654663086
+            ],
+            "Font": {
+                "alt_family_name": "* Times New Roman",
+                "embedded": true,
+                "encoding": "Identity-H",
+                "family_name": "* Times New Roman",
+                "font_type": "CIDFontType0",
+                "italic": false,
+                "monospaced": false,
+                "name": "*Times New Roman-2862",
+                "subset": false,
+                "weight": 400
+            },
+            "HasClip": false,
+            "ObjectID": 77,
+            "Page": 0,
+            "Path": "//Document/Sect/P[2]/Figure/StyleSpan[6]",
+            "Rotation": 0.3603363037109375,
+            "Skew": 0.3603363037109375,
+            "Text": "i ",
+            "TextSize": 12.499755859375,
+            "attributes": {
+                "TextPosition": "Sup"
+            }
+        },
+        {
+            "Bounds": [
+                596.3999938964844,
+                1242.5747985839844,
+                597.1200714111328,
+                1258.924331665039
+            ],
+            "Font": {
+                "alt_family_name": "* Times New Roman",
+                "embedded": true,
+                "encoding": "Identity-H",
+                "family_name": "* Times New Roman",
+                "font_type": "CIDFontType0",
+                "italic": false,
+                "monospaced": false,
+                "name": "*Times New Roman-2859",
+                "subset": false,
+                "weight": 400
+            },
+            "HasClip": false,
+            "ObjectID": 78,
+            "Page": 0,
+            "Path": "//Document/Sect/P[2]/Figure/StyleSpan[7]",
+            "Rotation": 0.3609466552734375,
+            "Skew": 0.3609466552734375,
+            "Text": "I",
+            "TextSize": 17.499649047851562,
+            "attributes": {
+                "TextPosition": "Sub"
+            }
+        },
+        {
+            "Bounds": [
+                613.6799926757812,
+                1252.38720703125,
+                654.4367523193359,
+                1264.7760009765625
+            ],
+            "Font": {
+                "alt_family_name": "* Times New Roman",
+                "embedded": true,
+                "encoding": "Identity-H",
+                "family_name": "* Times New Roman",
+                "font_type": "CIDFontType0",
+                "italic": false,
+                "monospaced": false,
+                "name": "*Times New Roman-2858",
+                "subset": false,
+                "weight": 400
+            },
+            "HasClip": false,
+            "ObjectID": 79,
+            "Page": 0,
+            "Path": "//Document/Sect/P[2]/Figure/StyleSpan[8]",
+            "Rotation": 0.360992431640625,
+            "Skew": 0.360992431640625,
+            "Text": "\u014141111 ",
+            "TextSize": 12.999740600585938,
+            "attributes": {
+                "TextPosition": "Sub"
+            }
+        },
+        {
+            "Bounds": [
+                795.8399963378906,
+                1249.4947967529297,
+                912.0009002685547,
+                1279.9293670654297
+            ],
+            "Font": {
+                "alt_family_name": "* Times New Roman",
+                "embedded": true,
+                "encoding": "Identity-H",
+                "family_name": "* Times New Roman",
+                "font_type": "CIDFontType0",
+                "italic": false,
+                "monospaced": false,
+                "name": "*Times New Roman-2856",
+                "subset": false,
+                "weight": 400
+            },
+            "HasClip": false,
+            "ObjectID": 80,
+            "Page": 0,
+            "Path": "//Document/Sect/P[2]/Figure/StyleSpan[9]",
+            "Rotation": 0.257080078125,
+            "Skew": 0.257080078125,
+            "Text": "l1C(I 1, \"Jl\\'\u0141-",
+            "TextSize": 21.999786376953125,
+            "attributes": {
+                "TextPosition": "Sub"
+            }
+        },
+        {
+            "Bounds": [
+                0.0,
+                0.0014495849609375,
+                1139.2682495117188,
+                1605.1071014404297
+            ],
+            "Font": {
+                "alt_family_name": "* Times New Roman",
+                "embedded": true,
+                "encoding": "Identity-H",
+                "family_name": "* Times New Roman",
+                "font_type": "CIDFontType0",
+                "italic": false,
+                "monospaced": false,
+                "name": "*Times New Roman-2856",
+                "subset": false,
+                "weight": 400
+            },
+            "HasClip": false,
+            "ObjectID": 71,
+            "Page": 0,
+            "Path": "//Document/Sect/P[2]/Figure",
+            "Rotation": 0.2578277587890625,
+            "Skew": 0.2578277587890625,
+            "Text": "\u0141,-. .a .........n1 , \u20221 119ZP' 11..s. \u0141n-' .cf_l\\-1, 1 'I \u00b701 ?I ti '-hi\u0141, ''-I \\ll\u0141'ft\u0141'",
+            "TextSize": 21.999771118164062,
+            "attributes": {
+                "BBox": [
+                    249.5899999999965,
+                    1245.3699999999953,
+                    936.6819999999716,
+                    1286.4099999999744
+                ]
+            }
+        },
+        {
+            "Bounds": [
+                0.0,
+                0.0014495849609375,
+                1139.2682495117188,
+                1605.1071014404297
+            ],
+            "ObjectID": 84,
+            "Page": 0,
+            "Path": "//Document/Sect/P[2]/Figure[2]",
+            "attributes": {
+                "BBox": [
+                    202.07199999999284,
+                    1071.3799999999464,
+                    934.7619999999879,
+                    1136.4199999999837
+                ]
+            }
+        },
+        {
+            "Bounds": [
+                0.0,
+                0.0014495849609375,
+                1139.2682495117188,
+                1605.1071014404297
+            ],
+            "Font": {
+                "alt_family_name": "* Times New Roman",
+                "embedded": true,
+                "encoding": "Identity-H",
+                "family_name": "* Times New Roman",
+                "font_type": "CIDFontType0",
+                "italic": false,
+                "monospaced": false,
+                "name": "*Times New Roman-2829",
+                "subset": false,
+                "weight": 400
+            },
+            "HasClip": false,
+            "ObjectID": 84,
+            "Page": 0,
+            "Path": "//Document/Sect/P[2]/Figure[2]",
+            "Rotation": 0.240447998046875,
+            "Skew": 0.240447998046875,
+            "Text": "!( '3 IC\\ \u0141 \u0141 ..., \u2022 \u0141;,rn 1 -\u0141\u0141 'V l \u0141 1 -. 1 , 1 \u2022 <fi&D \u0141 11 q_q:a:a-\u2022rstJ\u00ab\u0141 1 lij tiV Voe \u0141\u0141 \u0141 \u0141 ",
+            "TextSize": 31.999725341796875,
+            "attributes": {
+                "BBox": [
+                    202.07199999999284,
+                    1071.3799999999464,
+                    934.7619999999879,
+                    1136.4199999999837
+                ]
+            }
+        },
+        {
+            "Bounds": [
+                0.0,
+                0.0014495849609375,
+                1139.2682495117188,
+                1605.1071014404297
+            ],
+            "Font": {
+                "alt_family_name": "* Times New Roman",
+                "embedded": true,
+                "encoding": "Identity-H",
+                "family_name": "* Times New Roman",
+                "font_type": "CIDFontType0",
+                "italic": false,
+                "monospaced": false,
+                "name": "*Times New Roman-2829",
+                "subset": false,
+                "weight": 400
+            },
+            "HasClip": false,
+            "ObjectID": 69,
+            "Page": 0,
+            "Path": "//Document/Sect/P[2]",
+            "Rotation": 0.3663482666015625,
+            "Skew": 0.3663482666015625,
+            "Text": "ttillMa,, \u0141 ifi-ii \u0141q \u2022 \u2022\u2022 \u2022\u2022\u2022 ,,, \"\u0141'Sir \u0141fi( cl\u0141U 11\\!U 1ta Efii\u0141qd \u0141'lit \u0141 11:1i'JT .im: tHJ1c1,,1\u0141k a.'ff f.:rtRdt.. .i111.;q1tJ\u0141\u0141r: vn\u2022\u0141n\\JYl\\i\u2022o -.\u014111: tc.k ,wc,ir.fll=ti'tt<= 1 ",
+            "TextSize": 31.999343872070312,
+            "attributes": {
+                "LineHeight": 45.25,
+                "SpaceAfter": -24.875
+            }
+        },
+        {
+            "Bounds": [
+                248.63999938964844,
+                992.7230072021484,
+                330.8708953857422,
+                1049.011001586914
+            ],
+            "Font": {
+                "alt_family_name": "* Times New Roman",
+                "embedded": true,
+                "encoding": "Identity-H",
+                "family_name": "* Times New Roman",
+                "font_type": "CIDFontType0",
+                "italic": false,
+                "monospaced": false,
+                "name": "*Times New Roman-2829",
+                "subset": false,
+                "weight": 400
+            },
+            "HasClip": false,
+            "ObjectID": 85,
+            "Page": 0,
+            "Path": "//Document/Sect/P[3]",
+            "Text": "\u0141:41'1 I ",
+            "TextSize": 32.0,
+            "attributes": {
+                "LineHeight": 38.375,
+                "SpaceAfter": -13
+            }
+        },
+        {
+            "Bounds": [
+                0.0,
+                0.0014495849609375,
+                1139.2682495117188,
+                1605.1071014404297
+            ],
+            "ObjectID": 87,
+            "Page": 0,
+            "Path": "//Document/Sect/P[4]/Figure",
+            "attributes": {
+                "BBox": [
+                    419.9829999999929,
+                    877.9499999999825,
+                    550.05799999999,
+                    931.7069999999949
+                ]
+            }
+        },
+        {
+            "Bounds": [
+                0.0,
+                0.0014495849609375,
+                1139.2682495117188,
+                1605.1071014404297
+            ],
+            "Font": {
+                "alt_family_name": "* Times New Roman",
+                "embedded": true,
+                "encoding": "Identity-H",
+                "family_name": "* Times New Roman",
+                "font_type": "CIDFontType0",
+                "italic": false,
+                "monospaced": false,
+                "name": "*Times New Roman-2830",
+                "subset": false,
+                "weight": 400
+            },
+            "HasClip": false,
+            "ObjectID": 87,
+            "Page": 0,
+            "Path": "//Document/Sect/P[4]/Figure",
+            "Rotation": 0.160888671875,
+            "Skew": 0.160888671875,
+            "Text": "\u0141fi:r\u0141 ",
+            "TextSize": 49.99980163574219,
+            "attributes": {
+                "BBox": [
+                    419.9829999999929,
+                    877.9499999999825,
+                    550.05799999999,
+                    931.7069999999949
+                ]
+            }
+        },
+        {
+            "Bounds": [
+                0.0,
+                0.0014495849609375,
+                1139.2682495117188,
+                1605.1071014404297
+            ],
+            "Font": {
+                "alt_family_name": "* Times New Roman",
+                "embedded": true,
+                "encoding": "Identity-H",
+                "family_name": "* Times New Roman",
+                "font_type": "CIDFontType0",
+                "italic": false,
+                "monospaced": false,
+                "name": "*Times New Roman-2852",
+                "subset": false,
+                "weight": 400
+            },
+            "HasClip": false,
+            "ObjectID": 86,
+            "Page": 0,
+            "Path": "//Document/Sect/P[4]",
+            "Rotation": 0.160888671875,
+            "Skew": 0.160888671875,
+            "Text": "':a ,qtqtitf\u25a0el\ufffd\u2022n atMl \ufffdffl qqr \ufffdqi{ I . d\ufffd\ufffd\"-.\u00b7-",
+            "TextSize": 39.5,
+            "attributes": {
+                "LineHeight": 71.375,
+                "SpaceAfter": 18
+            }
+        },
+        {
+            "Bounds": [
+                0.0,
+                0.0014495849609375,
+                1139.2682495117188,
+                1605.1071014404297
+            ],
+            "ObjectID": 93,
+            "Page": 0,
+            "Path": "//Document/Sect/Figure",
+            "attributes": {
+                "BBox": [
+                    420.5829999999987,
+                    734.554999999993,
+                    943.5219999999972,
+                    809.0719999999856
+                ],
+                "Placement": "Block"
+            }
+        },
+        {
+            "Bounds": [
+                0.0,
+                0.0014495849609375,
+                1139.2682495117188,
+                1605.1071014404297
+            ],
+            "ObjectID": 93,
+            "Page": 0,
+            "Path": "//Document/Sect/Figure",
+            "attributes": {
+                "BBox": [
+                    420.5829999999987,
+                    734.554999999993,
+                    943.5219999999972,
+                    809.0719999999856
+                ],
+                "Placement": "Block"
+            }
+        },
+        {
+            "Bounds": [
+                0.0,
+                0.0014495849609375,
+                1139.2682495117188,
+                1605.1071014404297
+            ],
+            "ObjectID": 94,
+            "Page": 0,
+            "Path": "//Document/Sect/Figure[2]",
+            "attributes": {
+                "BBox": [
+                    209.75099999999657,
+                    132.29999999999563,
+                    961.0409999999974,
+                    699.8769999999786
+                ],
+                "Placement": "Block"
+            }
+        },
+        {
+            "Bounds": [
+                0.0,
+                0.0014495849609375,
+                1139.2682495117188,
+                1605.1071014404297
+            ],
+            "Font": {
+                "alt_family_name": "* Times New Roman",
+                "embedded": true,
+                "encoding": "Identity-H",
+                "family_name": "* Times New Roman",
+                "font_type": "CIDFontType0",
+                "italic": false,
+                "monospaced": false,
+                "name": "*Times New Roman-2829",
+                "subset": false,
+                "weight": 400
+            },
+            "HasClip": false,
+            "ObjectID": 94,
+            "Page": 0,
+            "Path": "//Document/Sect/Figure[2]",
+            "Text": "\u2022 \u2022 lr\u25a0'1 il'\u00b71:l('tltfi1 11'1lllPI\ufffd II wait -r44'l.liffT ifPl'i\"ftrvr: 'lJaq;r(IQ \ufffd,q11frta1; ' ' I\ufffd ' ., .. _ fi6'. I f5 31 ' ig t , cfiq' trr1ifR<.,tt11.Sfflii['(.,. V \u2022 ii, + IJI' \ufffd I q;-, (Ir 1 ifi, +II:..) a.tit' mf ftllit iillffl , Ii' II -= !11 !.51\u2022iii,+ II 11 \"liq (11',iii,+ II'\ufffd) \u2022 I\ufffd \" !Ir'. 11-1ll)q1q: = -\ufffd-q + ----_ \u2022. q II \u2022 fli \u2022 -+ II II cfi II (II ' In \u2022 + \u2022 \ufffd) _ w,,ifi,+11r\ufffd _ , -lli',(!1111'6'11 +111) -II, run 'Ii\ufffd it\u00ablf Iii,, II' 1 11\ufffd-r =a-it \ufffd \u00a5rikftr ",
+            "TextSize": 32.0,
+            "attributes": {
+                "BBox": [
+                    209.75099999999657,
+                    132.29999999999563,
+                    961.0409999999974,
+                    699.8769999999786
+                ],
+                "Placement": "Block"
+            }
+        }
+    ],
+    "pages": [
+        {
+            "boxes": {
+                "CropBox": [
+                    0.0,
+                    0.0,
+                    1139.280029296875,
+                    1605.1199951171875
+                ],
+                "MediaBox": [
+                    0.0,
+                    0.0,
+                    1139.280029296875,
+                    1605.1199951171875
+                ]
+            },
+            "height": 1605.1199951171875,
+            "is_scanned": true,
+            "page_number": 0,
+            "rotation": 0,
+            "width": 1139.280029296875
+        }
+    ]
+}
